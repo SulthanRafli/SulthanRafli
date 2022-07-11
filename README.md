@@ -199,7 +199,7 @@
   
   <br>
   <p align="center">
-  <img src="https://github.com/SulthanRafli/SulthanRafli/blob/main/github-user-contribution.svg" alt="snake"></center>
+  <img src="https://github.com/SulthanRafli/SulthanRafli/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
