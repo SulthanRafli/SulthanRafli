@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A5276,100:58A6FF&height=120&section=header" width="100%" />
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sulthan+Rafli+%F0%9F%91%8B;Senior+Full+Stack+Developer;Healthcare+Systems+%7C+Microservices+%7C+Go">
@@ -129,7 +131,4 @@ I'm a **Senior Full Stack Developer** with 6+ years of experience building and m
 
 ---
 
-<div align="center">
-  <img src="https://github.com/SulthanRafli/SulthanRafli/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark" />
-  <img src="https://github.com/SulthanRafli/SulthanRafli/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A5276,100:58A6FF&height=120&section=footer&text=Let's+Build+Something+Great&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%" />
