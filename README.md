@@ -125,6 +125,11 @@ I'm a **Senior Full Stack Developer** with 6+ years of experience building and m
 
 *"Build systems that scale, write code that lasts, mentor people who grow."*
 
-![Visitor Count](https://profile-counter.glitch.me/SulthanRafli/count.svg)
+</div>
 
+---
+
+<div align="center">
+  <img src="https://github.com/SulthanRafli/SulthanRafli/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark" />
+  <img src="https://github.com/SulthanRafli/SulthanRafli/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light" />
 </div>
