@@ -96,23 +96,19 @@ Full Stack Developer with 6+ years of experience designing and building scalable
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=SulthanRafli&theme=github-dark-blue&hide_border=true&ring=f43f5e&fire=f43f5e&currStreakLabel=f43f5e&sideLabels=f43f5e&dates=888888" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SulthanRafli&theme=github_dark" alt="Contribution Graph" />
+
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SulthanRafli&show_icons=true&title_color=f43f5e&icon_color=f43f5e&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true&cache_seconds=3600" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanRafli&layout=compact&title_color=f43f5e&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true&cache_seconds=3600" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=SulthanRafli&theme=dark&hide_border=true&ring=f43f5e&fire=be123c&currStreakLabel=f43f5e&sideLabels=f43f5e" alt="GitHub Streak" />
-    </td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SulthanRafli&theme=github_dark&exclude=html" alt="Repos Per Language" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SulthanRafli&theme=github_dark&exclude=html" alt="Most Commit Language" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SulthanRafli&theme=github_dark&utcOffset=7" alt="Productive Time" /></td>
   </tr>
 </table>
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SulthanRafli&theme=github-dark&hide_border=true&area=true&color=f43f5e&line=f43f5e&point=be123c)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
