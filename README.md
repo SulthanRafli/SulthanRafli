@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:881337,100:f43f5e&height=120&section=header" width="100%" />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=f43f5e&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sulthan+Rafli+%F0%9F%91%8B;Senior+Full+Stack+Developer;Healthcare+Systems+%7C+Microservices+%7C+Go">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=be123c&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sulthan+Rafli+%F0%9F%91%8B;Senior+Full+Stack+Developer;Healthcare+Systems+%7C+Microservices+%7C+Go">
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=f43f5e&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sulthan+Rafli+%F0%9F%91%8B;Senior+Full+Stack+Developer;Healthcare+Systems+%7C+Microservices+%7C+Go" />
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=f43f5e&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sulthan+Rafli+%F0%9F%91%8B;Senior+Full+Stack+Developer;AI+Native+Engineer;Healthcare+Systems+%7C+Microservices+%7C+Go">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=be123c&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sulthan+Rafli+%F0%9F%91%8B;Senior+Full+Stack+Developer;AI+Native+Engineer;Healthcare+Systems+%7C+Microservices+%7C+Go">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=f43f5e&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sulthan+Rafli+%F0%9F%91%8B;Senior+Full+Stack+Developer;AI+Native+Engineer;Healthcare+Systems+%7C+Microservices+%7C+Go" />
   </picture>
 </div>
 
@@ -72,8 +72,8 @@ Full Stack Developer with 6+ years of experience designing and building scalable
 |---------|-------------|------------|
 | **BPJS Bridging System** | National health insurance integration with 98–99% uptime across Applicares, VClaim, PCare, and more | Go, Node.js, Docker |
 | **SATUSEHAT Integration** | Interoperability layer bridging hospital systems with Indonesia's national health data platform | Go, REST API |
-| **[Calma Stories](https://calma-stories.com)** | Sustainable fashion platform for renting designer outfits and clutches | Angular, Node.js |
-| **[YCAB Foundation](https://ycabfoundation.org)** | Corporate website for a leading Indonesian non-profit organization | Angular |
+| **Calma Stories** | Sustainable fashion platform for renting designer outfits and clutches | Angular, Node.js |
+| **YCAB Foundation** | Corporate website for a leading Indonesian non-profit organization | Angular |
 | **Rusun System** | Web application for managing apartment (rusun) operations end-to-end | Angular, Node.js |
 | **PUPR Doc Sign** | Middleware bridging AutoCAD engineering workflows with BSrE digital signature services | Node.js, Go |
 
